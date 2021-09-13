@@ -1,0 +1,1 @@
+javascript: (function() { x = document.getElementById("static-ad-right-alt"); x.remove(); x = document.getElementById("gdpr-banner"); x.remove(); x = document.getElementById("container"); x.style.width = "100%"; })()
